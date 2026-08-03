@@ -6,8 +6,8 @@
   <a href="https://portfolio-ebon-theta-27.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel">
   </a>
-  <a href="https://github.com/apocalypse976">
-    <img src="https://img.shields.io/badge/GitHub-apocalypse976-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/aaruni107">
+    <img src="https://img.shields.io/badge/GitHub-aaruni107-black?style=for-the-badge&logo=github">
   </a>
   <a href="mailto:aarunichatterjee@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
