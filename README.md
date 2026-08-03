@@ -1,141 +1,123 @@
-<div align="center">
-
-# 👋 Hello World!
+<h1 align="center">Hi 👋 I'm Aaruni Chatterjee</h1>
 
 ```console
 C:\Users\Recruiter> whoami
 
-Name        : Aaruni Chatterjee
-Role        : Full Stack Web Developer
-Location    : Kolkata, India
-Experience  : 2 Years
-Status      : Open to Work 🚀
+Aaruni Chatterjee
 
-C:\Users\Recruiter> tech-stack
+C:\Users\Recruiter> role
 
-Frontend    : React.js | Next.js | HTML5 | CSS3 | Bootstrap
-Backend     : PHP | Laravel | Node.js | REST APIs
-Database    : MySQL | TiDB
-Languages   : JavaScript | TypeScript | PHP | C#
-Tools       : Git | GitHub | Postman | WordPress | Unity
+Full Stack Web Developer
 
-C:\Users\Recruiter> former-role
+C:\Users\Recruiter> experience
 
-Game Developer @ Biswa Games Pvt. Ltd.
-```
+✔ 2 Years Professional Experience
+✔ Former Game Developer @ Biswa Games Pvt. Ltd.
 
-</div>
+C:\Users\Recruiter> stack
 
----
+Frontend  : React.js | Next.js | HTML5 | CSS3 | Bootstrap
+Backend   : Laravel | PHP | Node.js | REST APIs
+Database  : MySQL | TiDB
+Languages : JavaScript | TypeScript | C#
+Tools     : Git | GitHub | Postman | WordPress | Unity
 
-# 💫 About Me
+C:\Users\Recruiter> status
 
-```yaml
-name: Aaruni Chatterjee
-
-current_role: Full Stack Web Developer
-
-experience:
-  - Backend Development
-  - REST API Development
-  - Third-Party API Integration
-  - Authentication Systems
-  - Database Design
-  - Responsive Web Development
-
-currently_learning:
-  - Advanced Next.js
-  - Docker
-  - System Design
-  - Cloud Deployment
-
-former_experience: Game Development using Unity & C#
-
-career_goal: Build scalable, secure and high-performance web applications.
+🟢 Open To Work
 ```
 
 ---
 
-# 🚀 Tech Stack
+## 📂 ls projects/
 
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,cs"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://img.shields.io/badge/TiDB-EF3F23?style=for-the-badge"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
-</p>
-
----
-
-# 📂 Featured Projects
-
-```console
+```text
 📦 Projects
-
+│
 ├── 🛒 E-Commerce Website
 │   ├── Next.js
 │   ├── Node.js
 │   ├── MySQL
 │   ├── TiDB
-│   ├── REST APIs
-│   └── Authentication
-
+│   └── REST API
+│
 ├── 📰 Blog Website
-│   ├── React
+│   ├── React.js
 │   ├── Next.js
-│   ├── Prisma
+│   ├── Prisma ORM
 │   └── Bootstrap
-
-└── 🎮 The Great Fleece
-    ├── Unity
-    ├── NavMesh AI
-    ├── Cinemachine
-    └── C#
+│
+├── 🎮 The Great Fleece
+│   ├── Unity
+│   ├── NavMesh AI
+│   ├── Cinemachine
+│   └── C#
+│
+└── 🍽 Restaurant Booking System
+    ├── PHP
+    ├── MySQL
+    └── Bootstrap
 ```
 
 ---
 
-# 📊 GitHub Stats
+## 💻 cat about.txt
 
-<div align="center">
+```yaml
+Name: Aaruni Chatterjee
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apocalypse976&show_icons=true&theme=tokyonight&hide_border=true)
+Current Role: Full Stack Web Developer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apocalypse976&layout=compact&theme=tokyonight&hide_border=true)
+Specialization:
+  - Laravel
+  - React.js
+  - Next.js
+  - REST API Development
+  - Authentication
+  - Database Design
+  - Backend Development
 
-![GitHub Streak](https://streak-stats.demolab.com?user=apocalypse976&theme=tokyonight&hide_border=true)
+Currently Learning:
+  - Docker
+  - Cloud Deployment
+  - System Design
 
-</div>
+Looking For: Full Stack Developer
+  Backend Developer
+  Laravel Developer
+```
 
 ---
 
-# 🌐 Connect With Me
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,nodejs,mysql,js,ts,html,css,bootstrap,git,github,postman,wordpress,unity" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaruni107&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaruni107&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aaruni107&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect
 
 <p align="center">
 
@@ -143,24 +125,20 @@ career_goal: Build scalable, secure and high-performance web applications.
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:aarunichatterjee@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
 ```bash
-$ echo "Thanks for visiting my profile!"
+$ echo "Thanks for visiting!"
 
 > Happy Coding 🚀
 ```
-
-</div>
