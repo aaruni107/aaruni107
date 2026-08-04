@@ -48,15 +48,11 @@ C:\Users\Recruiter> status
 │   └── Bootstrap
 │
 ├── 🎮 The Great Fleece
-│   ├── Unity
-│   ├── NavMesh AI
-│   ├── Cinemachine
-│   └── C#
-│
-└── 🍽 Restaurant Booking System
-    ├── PHP
-    ├── MySQL
-    └── Bootstrap
+    ├── Unity
+    ├── NavMesh AI
+    ├── Cinemachine
+    └── C#
+
 ```
 
 ---
