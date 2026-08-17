@@ -196,18 +196,16 @@ CV-listed technical skills include Unity, Unreal Engine, gameplay programming, g
 ║              APR 2025 → MAY 2026                    ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║  🌐 VR & 3D GAME DEVELOPMENT                         ║
-║  💻 Unity + C#                                       ║
-║  🥊 VR BOXING GAME                                   ║
-║  🔐 PLAYER AUTHENTICATION                            ║
+║  🥊 MIXED REALITY BOXING GAME                        ║
+║  💻 UNITY + C#                                       ║
+║  🥽 MIXED REALITY DEVELOPMENT                        ║
+║  🤖 AI SYSTEMS USING UFE PACKAGE                     ║
+║  🧠 AI BOXER BEHAVIOR & GAMEPLAY                     ║
 ║  🔌 THIRD-PARTY API INTEGRATION                      ║
-║                                                      ║
-║  + Backend Development                               ║
-║  + PHP / Laravel / MySQL                             ║
-║  + Authentication Workflows                          ║
-║  + Database Optimization                              ║
+║  🔐 PLAYER AUTHENTICATION                            ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
+
 ```
 
 During this role, you developed gameplay features for VR and 3D games using Unity/C#, worked on third-party API integration for authentication and authorization in a VR boxing game, and also maintained PHP/Laravel/MySQL backend modules.
