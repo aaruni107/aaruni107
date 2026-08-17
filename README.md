@@ -107,7 +107,13 @@ CV-listed technical skills include Unity, Unreal Engine, gameplay programming, g
 ╚══════════════════════════════════════════════════════╝
 ```
 
-**Mission:** Build a 2D dungeon escape experience with procedurally generated tile-based levels, combat, enemy interactions, progression, boss encounters, an in-game shop, power-ups, and rewarded advertisements.
+**Mission:** A 2D dungeon escape game featuring procedurally generated tile-based dungeon layouts, combat, enemy interactions, dungeon progression, boss fights, an in-game shop, collectible currency, power-ups, and rewarded advertisements.
+
+<p align="center">
+
+[![🎮 PLAY / VIEW DUNGEON ESCAPE](https://img.shields.io/badge/🎮_PLAY_/_VIEW_DUNGEON_ESCAPE-6C5CE7?style=for-the-badge)](https://drive.google.com/file/d/1FyboHDnxgoeZg0m4lMc4THaBuIjZYZMc/view?usp=drive_link)
+
+</p>
 
 ---
 
@@ -135,7 +141,13 @@ CV-listed technical skills include Unity, Unreal Engine, gameplay programming, g
 ╚══════════════════════════════════════════════════════╝
 ```
 
-**Mission:** Develop a 3D game with interactive gameplay, intelligent enemy AI using Unity NavMesh Agent, player detection, smooth movement, camera controls, cinematic cutscenes, level design, and interaction systems.
+**Mission:** A 3D Unity game featuring intelligent enemy AI using NavMesh Agent, player detection, smooth player movement, camera controls, Cinemachine, cinematic cutscenes, level design, interaction systems, and gameplay optimization.
+
+<p align="center">
+
+[![🎮 PLAY / VIEW THE GREAT FLEECE](https://img.shields.io/badge/🎮_PLAY_/_VIEW_THE_GREAT_FLEECE-00B894?style=for-the-badge)](https://drive.google.com/file/d/1jwpFsBDKskuD81YgHXd5jzY9bnQM6KsA/view?usp=drive_link)
+
+</p>
 
 ---
 
@@ -143,6 +155,7 @@ CV-listed technical skills include Unity, Unreal Engine, gameplay programming, g
 
 **Type:** `3D MOBILE / PHYSICS`
 **Engine:** `Unity`
+**Language:** `C#`
 **Status:** `🚧 ONGOING`
 
 ```text
@@ -163,7 +176,13 @@ CV-listed technical skills include Unity, Unreal Engine, gameplay programming, g
 ╚══════════════════════════════════════════════════════╝
 ```
 
-**Mission:** Develop a 3D mobile balancing game with physics-based movement, level progression, player controls, ball and character selection, persistent save functionality, ScriptableObject-based observer architecture, and unlockable content.
+**Mission:** An ongoing 3D mobile balancing game featuring physics-based ball movement, level progression, player controls, ball and character selection, persistent save functionality, ScriptableObject-based observer architecture, and unlock mechanics.
+
+<p align="center">
+
+[![🎮 PLAY / VIEW BALL BALANCER](https://img.shields.io/badge/🎮_PLAY_/_VIEW_BALL_BALANCER-0984E3?style=for-the-badge)](https://drive.google.com/file/d/1v4SXdnRArjbJlxRN3Lp9ZTm9sajqrb2A/view?usp=drive_link)
+
+</p>
 
 ---
 
