@@ -240,7 +240,7 @@ During this role, you developed gameplay features for VR and 3D games using Unit
 🏆 GAME DEVELOPER
    Developed VR & 3D gameplay features
 
-🏆 AI ENGINEER
+🏆 AI SYSTEM
    Implemented enemy AI and NavMesh pathfinding
 
 🏆 SYSTEM BUILDER
