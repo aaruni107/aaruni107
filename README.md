@@ -1,103 +1,247 @@
-<h1 align="center">Hi 👋 I'm Aaruni Chatterjee</h1>
+# 🎮 AARUNI CHATTERJEE
 
-```console
-C:\Users\Recruiter> whoami
-
-Aaruni Chatterjee
-
-C:\Users\Recruiter> role
-
-Full Stack Web Developer
-
-C:\Users\Recruiter> experience
-
-✔ 2 Years Professional Experience
-✔ Former Game Developer @ Biswa Games Pvt. Ltd.
-
-C:\Users\Recruiter> stack
-
-Frontend  : React.js | Next.js | HTML5 | CSS3 | Bootstrap
-Backend   : Laravel | PHP | Node.js | REST APIs
-Database  : MySQL | TiDB
-Languages : JavaScript | TypeScript | C#
-Tools     : Git | GitHub | Postman | WordPress | Unity
-
-C:\Users\Recruiter> status
-
-🟢 Open To Work
-```
-
----
-
-## 📂 ls projects/
-
-```text
-📦 Projects
-│
-├── 🛒 E-Commerce Website
-│   ├── Next.js
-│   ├── Node.js
-│   ├── MySQL
-│   ├── TiDB
-│   └── REST API
-│
-├── 📰 Blog Website
-│   ├── React.js
-│   ├── Next.js
-│   ├── Prisma ORM
-│   └── Bootstrap
-│
-├── 🎮 The Great Fleece
-    ├── Unity
-    ├── NavMesh AI
-    ├── Cinemachine
-    └── C#
-
-```
-
----
-
-## 💻 cat about.txt
-
-```yaml
-Name: Aaruni Chatterjee
-
-Current Role: Full Stack Web Developer
-
-Specialization:
-  - Laravel
-  - React.js
-  - Next.js
-  - REST API Development
-  - Authentication
-  - Database Design
-  - Backend Development
-
-Currently Learning:
-  - Docker
-  - Cloud Deployment
-  - System Design
-
-Looking For: Full Stack Developer
-  Backend Developer
-  Laravel Developer
-```
-
----
-
-## 🛠 Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AARUNI%20CHATTERJEE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GAME%20DEVELOPER%20%7C%20UNITY%20%7C%20C%23&descAlignY=58&descSize=18"/>
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,laravel,php,nodejs,mysql,js,ts,html,css,bootstrap,git,github,postman,wordpress,unity" />
+`🎮 GAME DEVELOPER` `⚔️ GAMEPLAY PROGRAMMER` `🧠 AI SYSTEMS` `🛠️ UNITY`
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 PLAYER PROFILE
 
+```text
+╔══════════════════════════════════════════════════════╗
+║                  PLAYER PROFILE                       ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  👤 NAME       : Aaruni Chatterjee                  ║
+║  🎮 CLASS      : Game Developer                     ║
+║  ⭐ LEVEL      : Professional Developer             ║
+║  ⚔️ SPECIALTY  : Gameplay Programming               ║
+║  🕹️ ENGINE     : Unity / Unreal Engine              ║
+║                                                      ║
+║  STATUS        : 🟢 OPEN TO WORK                    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
+---
+
+## 🧙 CHARACTER BUILD
+
+```text
+                 ┌─────────────────────┐
+                 │   GAME DEVELOPER    │
+                 └──────────┬──────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+      🎮 GAMEPLAY         🧠 AI            ⚙️ SYSTEMS
+          │                 │                 │
+      Mechanics          NavMesh          Save Systems
+      Physics            Pathfinding      Progression
+      Animation          Detection        UI Systems
+      Optimization       Enemy AI         Game Logic
+```
+
+---
+
+## ⚔️ SKILL TREE
+
+### 🎮 GAME DEVELOPMENT
+
+```text
+Unity             ████████████████████  MAX
+C#                ███████████████████░  HIGH
+Gameplay          ███████████████████░  HIGH
+Game Mechanics    ███████████████████░  HIGH
+AI Systems        ██████████████████░░  HIGH
+Physics           █████████████████░░░  HIGH
+UI Systems        ████████████████░░░░  HIGH
+Animation         ███████████████░░░░░  HIGH
+Optimization      ███████████████░░░░░  HIGH
+```
+
+### 🛠️ TOOLS & TECHNOLOGY
+
+```text
+Unity Engine      🎮
+Unreal Engine     🎮
+Git / GitHub      🔧
+Visual Studio     💻
+Postman           🔌
+MySQL             🗄️
+```
+
+CV-listed technical skills include Unity, Unreal Engine, gameplay programming, game mechanics, AI systems, UI systems, animation, physics, optimization, C#, C++, JavaScript, Git/GitHub, Visual Studio, Postman, Unity Hub, and MySQL.
+
+---
+
+# 🗺️ QUEST LOG
+
+## 🏰 QUEST 01 — DUNGEON ESCAPE
+
+**Type:** `2D ACTION / ADVENTURE`
+**Engine:** `Unity`
+**Language:** `C#`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                  🏰 DUNGEON ESCAPE                   ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  ⚔️ Combat System                                    ║
+║  👹 Enemy Interactions                               ║
+║  🗺️ Procedural Dungeon Generation                   ║
+║  👑 Boss Fight                                       ║
+║  🛒 In-Game Shop                                     ║
+║  ⚡ Power-Ups                                        ║
+║  💰 Collectible Currency                             ║
+║  📺 Unity Ads / Rewarded Ads                        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**Mission:** Build a 2D dungeon escape experience with procedurally generated tile-based levels, combat, enemy interactions, progression, boss encounters, an in-game shop, power-ups, and rewarded advertisements.
+
+---
+
+# 🐺 QUEST 02 — THE GREAT FLEECE
+
+**Type:** `3D ADVENTURE`
+**Engine:** `Unity`
+**Language:** `C#`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                 🐺 THE GREAT FLEECE                 ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  🤖 Enemy AI                                         ║
+║  🧭 NavMesh Pathfinding                              ║
+║  👁️ Player Detection                                 ║
+║  🎥 Cinemachine                                      ║
+║  🎬 Cinematic Cutscenes                              ║
+║  🕹️ Player Movement                                  ║
+║  🗺️ Level Design                                     ║
+║  🔧 Interaction Systems                              ║
+║  ⚡ Performance Optimization                         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**Mission:** Develop a 3D game with interactive gameplay, intelligent enemy AI using Unity NavMesh Agent, player detection, smooth movement, camera controls, cinematic cutscenes, level design, and interaction systems.
+
+---
+
+# ⚽ QUEST 03 — BALL BALANCER
+
+**Type:** `3D MOBILE / PHYSICS`
+**Engine:** `Unity`
+**Status:** `🚧 ONGOING`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                   ⚽ BALL BALANCER                  ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  ⚙️ Physics-Based Movement                           ║
+║  🎮 Player Controls                                  ║
+║  🗺️ Level Progression                                ║
+║  🏀 Ball Selection                                    ║
+║  🧙 Character Selection                              ║
+║  💾 Persistent Save System                           ║
+║  👁️ Observer System                                  ║
+║  🔓 Unlock Mechanics                                 ║
+║  📈 Gameplay Progression                             ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**Mission:** Develop a 3D mobile balancing game with physics-based movement, level progression, player controls, ball and character selection, persistent save functionality, ScriptableObject-based observer architecture, and unlockable content.
+
+---
+
+# 🏢 EXPERIENCE — PLAYER HISTORY
+
+## 🎮 Biswa Games Pvt. Ltd.
+
+```text
+╔══════════════════════════════════════════════════════╗
+║              🎮 GAME DEVELOPER                      ║
+║              APR 2025 → MAY 2026                    ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  🌐 VR & 3D GAME DEVELOPMENT                         ║
+║  💻 Unity + C#                                       ║
+║  🥊 VR BOXING GAME                                   ║
+║  🔐 PLAYER AUTHENTICATION                            ║
+║  🔌 THIRD-PARTY API INTEGRATION                      ║
+║                                                      ║
+║  + Backend Development                               ║
+║  + PHP / Laravel / MySQL                             ║
+║  + Authentication Workflows                          ║
+║  + Database Optimization                              ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+During this role, you developed gameplay features for VR and 3D games using Unity/C#, worked on third-party API integration for authentication and authorization in a VR boxing game, and also maintained PHP/Laravel/MySQL backend modules.
+
+---
+
+# 🎒 INVENTORY
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                    INVENTORY                         ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  🎮 Unity              [EQUIPPED]                   ║
+║  ⚔️ C#                 [EQUIPPED]                   ║
+║  🧠 AI Systems         [EQUIPPED]                   ║
+║  🧭 NavMesh            [EQUIPPED]                   ║
+║  🎥 Cinemachine        [EQUIPPED]                   ║
+║  ⚙️ Physics            [EQUIPPED]                   ║
+║  💾 Save Systems       [EQUIPPED]                   ║
+║  🔧 Git                [EQUIPPED]                   ║
+║  💻 Unreal Engine      [LEARNING]                   ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+```text
+🏆 GAME DEVELOPER
+   Developed VR & 3D gameplay features
+
+🏆 AI ENGINEER
+   Implemented enemy AI and NavMesh pathfinding
+
+🏆 SYSTEM BUILDER
+   Created save, progression and unlock systems
+
+🏆 GAMEPLAY PROGRAMMER
+   Built combat, physics and interaction mechanics
+
+🏆 VR DEVELOPER
+   Worked on a VR boxing game
+
+🏆 FULL-STACK BONUS
+   Experience with PHP, Laravel, MySQL and APIs
+```
+
+---
+
+# 📊 GITHUB STATS
 
 <p align="center">
 
@@ -107,28 +251,46 @@ Looking For: Full Stack Developer
 
 ---
 
-## 🌐 Connect
+# 🌐 JOIN MY PARTY
 
 <p align="center">
 
 <a href="https://portfolio-ebon-theta-27.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/🎮_PORTFOLIO-111827?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aaruni-chatterjee-289250203/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/⚔️_LINKEDIN-0077B5?style=for-the-badge"/>
 </a>
 
 <a href="mailto:aarunichatterjee@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/✉️_GMAIL-EA4335?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-```bash
-$ echo "Thanks for visiting!"
+## 💀 GAME OVER?
 
-> Happy Coding 🚀
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║             🎮 THANKS FOR PLAYING!                  ║
+║                                                      ║
+║       "Every bug is just another boss fight."       ║
+║                                                      ║
+║                  INSERT COIN 🪙                      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
+
+<p align="center">
+
+### 🚀 KEEP BUILDING. KEEP PLAYING. KEEP CREATING.
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
